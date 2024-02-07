@@ -1,4 +1,4 @@
-# Scrimba - Travel Journal solution
+# Scrimba - Meme generator project
 
 This is a project of the [Meme generator on Scrimba](https://scrimba.com/learn/learnjavascript/). Scrimba helps you improve your coding skills by building realistic projects.
 
